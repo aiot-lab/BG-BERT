@@ -11,6 +11,7 @@ The BG-BERT model training contains three parts:
 1. Pre-training
 2. Ouput Embedding
 3. Prediction
+
 **It should be noticed that all the hyperparameters, model path, data path are defined in 'config.py' for convenience, as you donnot have to type in anything in the command line.**
 
 #### 2.1 Pre-training
