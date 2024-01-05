@@ -1,6 +1,7 @@
 # Predicting Adverse Events for Patients with Type-1 Diabetes via Self-supervised Learning
 
-> Xinzhe Zheng, Sijie Ji, Chenshu Wu
+> Xinzhe Zheng, Sijie Ji, Chenshu Wu 
+>
 > *In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024*
 
 This repository contains the code of BG-BERT.
